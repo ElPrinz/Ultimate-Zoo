@@ -16,7 +16,7 @@ class Program
         Console.WriteLine("Willkommen im Zoo: " + neuerZoo.ZooName);
         Console.ForegroundColor = ConsoleColor.White;
 
-        Console.WriteLine("Die Tiere werden produziert...");
+        Console.WriteLine("Die Tiere werden gebuhren..");
         
         // Zehn Schweine werden erstellt
         for (int i = 0; i < 10; i++)
